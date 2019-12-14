@@ -116,4 +116,8 @@ Merge xyx to xxx
 
 Now you connect your repository local to a remote repository from github.
 
+```git push origin master```
+
+Send branch master to origin in github.
+
 
