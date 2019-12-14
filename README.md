@@ -84,8 +84,6 @@ with this we take out files from the staging area so they will not be commited.
 
 Push your change to the server
 
-<Foto>
-
 ```git fetch```
 
 Bring the repository to the local repository
@@ -94,10 +92,15 @@ Bring the repository to the local repository
 
 Merge de repository in the server to the local directory
 
-<Foto>
-
 ``` git pull```
 
 Bring everything form the server to the local directory and repository
 
-<Foto> 
+```git branch xxx```
+
+Create a new branch.
+
+``` git checkout xxx```
+
+Now you will change to the branch xxx.
+
