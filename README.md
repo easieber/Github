@@ -104,3 +104,11 @@ Create a new branch.
 
 Now you will change to the branch xxx.
 
+*If you want to merge, then go to the master branch and...*
+
+``` git merge xyx```
+
+Merge xyx to xxx
+
+
+
