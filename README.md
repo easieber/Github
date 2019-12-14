@@ -110,5 +110,10 @@ Now you will change to the branch xxx.
 
 Merge xyx to xxx
 
+## Git and Github
+
+```git remote add origin *url from github*```
+
+Now you connect your repository local to a remote repository from github.
 
 
